@@ -1,0 +1,15 @@
+C:\Users\유재림\source\repos\Algorithm\bin\Debug\net6.0\Algorithm.exe
+C:\Users\유재림\source\repos\Algorithm\bin\Debug\net6.0\Algorithm.deps.json
+C:\Users\유재림\source\repos\Algorithm\bin\Debug\net6.0\Algorithm.runtimeconfig.json
+C:\Users\유재림\source\repos\Algorithm\bin\Debug\net6.0\Algorithm.dll
+C:\Users\유재림\source\repos\Algorithm\bin\Debug\net6.0\Algorithm.pdb
+C:\Users\유재림\source\repos\Algorithm\obj\Debug\net6.0\Algorithm.csproj.AssemblyReference.cache
+C:\Users\유재림\source\repos\Algorithm\obj\Debug\net6.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\유재림\source\repos\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfoInputs.cache
+C:\Users\유재림\source\repos\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfo.cs
+C:\Users\유재림\source\repos\Algorithm\obj\Debug\net6.0\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\유재림\source\repos\Algorithm\obj\Debug\net6.0\Algorithm.dll
+C:\Users\유재림\source\repos\Algorithm\obj\Debug\net6.0\refint\Algorithm.dll
+C:\Users\유재림\source\repos\Algorithm\obj\Debug\net6.0\Algorithm.pdb
+C:\Users\유재림\source\repos\Algorithm\obj\Debug\net6.0\Algorithm.genruntimeconfig.cache
+C:\Users\유재림\source\repos\Algorithm\obj\Debug\net6.0\ref\Algorithm.dll
